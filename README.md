@@ -1,7 +1,9 @@
 # flask_api_midterm
 Flask based file upload system usingte JWT Authentication, CRUD operations, and file handling Mid term project by Yadneya Joshi and Karan Kavatage
 
+Video Link:
 
+https://drive.google.com/drive/folders/1o8w9b097X1jn5yQYZrTbnQeXxo2klHK0?usp=drive_link
 
 HOW TO RUN:
 -----------
